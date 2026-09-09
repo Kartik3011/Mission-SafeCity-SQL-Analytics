@@ -1,0 +1,101 @@
+Location_ID,Area_Name,Zone,Risk_Level,Latitude,Longitude
+L001,K. Springs,Central,High,12.940895,77.561223
+L002,Real Chartered Heights,Central,High,12.928573,77.723045
+L003,K. Springs Vista,Central,High,12.880165,77.507449
+L004,Real Chartered Residency,Central,High,12.896018,77.506634
+L005,Real Chartered Square,Central,High,12.879709,77.612302
+L006,Nexus,Central,High,12.944173,77.539915
+L007,Sign Avenue Phase 1,Central,High,12.852796,77.553828
+L008,Nexus Heights,Central,High,12.817622,77.524179
+L009,Nexus Vista,Central,High,12.850259,77.510863
+L010,Sign Avenue Square,Central,High,12.823717,77.730574
+L011,K. Springs Square,Central,High,12.855704,77.65716
+L012,Nexus Vista,Central,High,12.836535,77.517389
+L013,Real Chartered Extension,Central,High,12.987192,77.713829
+L014,K. Springs Phase 2,Central,High,12.852815,77.658921
+L015,Nexus Gardens,Central,High,12.870334,77.552377
+L016,Nexus Heights,Central,High,12.915735,77.542785
+L017,Real Chartered Gardens,Central,High,12.887829,77.567487
+L018,Resights Residency,Central,High,12.930077,77.710713
+L019,K. Springs Residency,Central,High,12.956142,77.701261
+L020,Sign Avenue Extension,Central,High,12.812576,77.728284
+L021,Aurora Phase 1,East,High,12.840399,77.624808
+L022,Savvy Subcity Gardens,East,High,12.850327,77.561657
+L023,Aurora Square,East,High,12.849921,77.646146
+L024,Aurora Phase 2,East,High,12.868779,77.749331
+L025,Green Park Square,East,High,12.893768,77.688946
+L026,Sunshine Homes Gardens,East,High,12.919215,77.69802
+L027,Savvy Subcity Vista,East,High,12.81207,77.595405
+L028,Savvy Subcity Square,East,High,12.847769,77.638306
+L029,Sunshine Homes Heights,East,High,12.929525,77.634243
+L030,Layfields Phase 1,East,High,12.821195,77.608691
+L031,Savvy Subcity,East,High,12.981225,77.718963
+L032,Layfields Square,East,High,12.944773,77.62692
+L033,Sunshine Homes Extension,East,High,12.959917,77.626916
+L034,Green Park Gardens,East,High,12.871044,77.540387
+L035,Aurora,East,High,12.913799,77.622151
+L036,Sunshine Homes Phase 1,East,High,12.966957,77.707916
+L037,Layfields Residency,East,High,12.811006,77.719502
+L038,Sunshine Homes Heights,East,High,12.939062,77.704006
+L039,Aurora Gardens,East,High,12.824394,77.618821
+L040,Aurora Gardens,East,High,12.850361,77.718108
+L041,Rivere Residency,West,Medium,12.976494,77.688816
+L042,Arama Extension,West,Medium,12.875809,77.667922
+L043,Luna Street Enclave,West,Medium,12.970927,77.612872
+L044,Arama Residency,West,Medium,12.812165,77.505259
+L045,Dim Square Residency,West,Medium,12.911804,77.501798
+L046,Rose Fields Residency,West,Medium,12.812806,77.507853
+L047,Luna Street Heights,West,Medium,12.89769,77.569619
+L048,Rivere Residency,West,Medium,12.902454,77.680838
+L049,Dim Square Vista,West,Medium,12.889807,77.696155
+L050,Rivere Residency,West,Medium,12.817922,77.664746
+L051,Luna Street Phase 2,West,Medium,12.878109,77.715959
+L052,Rose Fields Heights,West,Medium,12.811516,77.682053
+L053,Rose Fields Residency,West,Medium,12.836402,77.634071
+L054,Arama Phase 2,West,Medium,12.834863,77.615657
+L055,Rose Fields Enclave,West,Medium,12.953524,77.713992
+L056,Rose Fields,West,Medium,12.923908,77.635147
+L057,Rose Fields Heights,West,Medium,12.97601,77.712174
+L058,Arama Phase 2,West,Medium,12.892272,77.553437
+L059,Rivere,West,Medium,12.831281,77.500539
+L060,Rivere Extension,West,Medium,12.976038,77.696282
+L061,Smart City Phase 2,South,Medium,12.932352,77.682626
+L062,Creme Delights Enclave,South,Medium,12.829411,77.574177
+L063,Neopy Point Vista,South,Medium,12.93979,77.515239
+L064,Smart City,South,Medium,12.809527,77.619197
+L065,Creme Delights Gardens,South,Medium,12.810807,77.626957
+L066,Technovia Heights,South,Medium,12.913057,77.668803
+L067,Technovia Phase 2,South,Medium,12.822778,77.722572
+L068,Technovia Vista,South,Medium,12.912959,77.654845
+L069,Southlake Vista,South,Medium,12.907393,77.579092
+L070,Smart City Residency,South,Medium,12.927248,77.578546
+L071,Smart City Phase 2,South,Medium,12.824867,77.661375
+L072,Southlake Phase 1,South,Medium,12.976513,77.733934
+L073,Neopy Point Enclave,South,Medium,12.91802,77.640748
+L074,Neopy Point Heights,South,Medium,12.902151,77.626471
+L075,Technovia Phase 1,South,Medium,12.967364,77.719818
+L076,Smart City Extension,South,Medium,12.829972,77.708436
+L077,Smart City Vista,South,Medium,12.986932,77.701775
+L078,Creme Delights,South,Medium,12.926894,77.638651
+L079,Neopy Point Gardens,South,Medium,12.850249,77.722428
+L080,Creme Delights Gardens,South,Medium,12.851746,77.651207
+L081,Silver Hub Residency,North,Low,12.930624,77.713228
+L082,Market 78 Enclave,North,Low,12.847713,77.72704
+L083,Rime Garden Heights,North,Low,12.920514,77.707337
+L084,Rime Garden,North,Low,12.863376,77.532705
+L085,Silver Hub Gardens,North,Low,12.940834,77.63792
+L086,Almond Street Square,North,Low,12.801837,77.518811
+L087,Guava Groves Square,North,Low,12.806845,77.592304
+L088,Market 78 Gardens,North,Low,12.881659,77.510457
+L089,Silver Hub,North,Low,12.970796,77.552519
+L090,Guava Groves Heights,North,Low,12.867199,77.639971
+L091,Almond Street Vista,North,Low,12.942401,77.731441
+L092,Guava Groves Gardens,North,Low,12.985479,77.702693
+L093,Almond Street,North,Low,12.834079,77.731122
+L094,Almond Street Residency,North,Low,12.850693,77.696844
+L095,Rime Garden Phase 2,North,Low,12.965712,77.714648
+L096,Guava Groves Residency,North,Low,12.955151,77.615076
+L097,Silver Hub Residency,North,Low,12.842355,77.665008
+L098,Almond Street Phase 1,North,Low,12.852935,77.517355
+L099,Silver Hub Phase 1,North,Low,12.921882,77.59992
+L100,Market 78 Phase 1,North,Low,12.978455,77.528835

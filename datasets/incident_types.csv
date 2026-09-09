@@ -1,0 +1,9 @@
+Incident_Type_ID,Incident_Type,Severity
+IT001,Assault,High
+IT002,Harassment,Medium
+IT003,Stalking,High
+IT004,Eve Teasing,Medium
+IT005,Domestic Violence,High
+IT006,SOS Alert,Critical
+IT007,Suspicious Activity,Low
+IT008,Public Transport Harassment,High
