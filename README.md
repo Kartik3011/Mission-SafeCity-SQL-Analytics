@@ -1,6 +1,6 @@
 # Mission SafeCity: Women's Safety Data Analysis (MySQL)
 
-An end-to-end relational database and analytical SQL project modeling women's safety incident data. This project designs a normalized relational database across 7 core entities, ingests operational CSV datasets, and implements 25 business critical SQL queries ranging from exploratory data analysis to advanced business priority scoring.
+An end to end relational database and analytical SQL project modeling women's safety incident data. This project designs a normalized relational database across 7 core entities, ingests operational CSV datasets, and implements 25 business critical SQL queries ranging from exploratory data analysis to advanced business priority scoring.
 
 ---
 
