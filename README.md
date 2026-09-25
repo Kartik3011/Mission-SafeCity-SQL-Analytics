@@ -18,7 +18,8 @@ An end to end relational database and analytical SQL project modeling women's sa
 ├── 01_schema_setup.sql
 ├── 02_data_analysis_queries.sql
 ├── 03_sql_analysis_output.xlsx
-├── Mission_SafeCity_SQL_Project_Presentation.pptx
+├── Mission_SafeCity_SQL_Project_Presentation.pptx (PPT)
+├── Mission_SafeCity_SQL_Project_Presentation.pdf (PPT)
 ├── Mission_SafeCity_ER_Diagram.png
 ├── Mission_SafeCity_ER_Diagram.mwb
 └── README.md
